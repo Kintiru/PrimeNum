@@ -1,3 +1,4 @@
-# get_Prime_Num
+# PrimeNum
 
-살려줘요오.. 뭐가 잘못된건지 모르겠어요오..
+Just Getting prime num.
+Nothing more.
