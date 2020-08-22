@@ -10,7 +10,7 @@ function getPrime_Num(startNum,endNum) {
     if(startNum < 2){throw 'err4'}
   }
   catch(e){
-    if(e == 'err1') {return console.log('에러: 끝나는 숫자가 시작숫자보다 크면 안됍니다.');}
+    if(e == 'err1') {return console.log('에러: 끝나는 숫자가 시작숫자보다 클 수 없습니다..');}
 
     if(e == 'err2') {return console.log('에러: 시작숫자가 숫자가 아닙니다!');}
 
